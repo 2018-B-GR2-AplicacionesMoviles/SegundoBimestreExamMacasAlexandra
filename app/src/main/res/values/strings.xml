@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alexandra Macas</string>
+    <string name="crear_padre">Crear Actor</string>
+    <string name="listar_padre">Mostrar Actor</string>
+    <string name="nombre_tienda">Nombre Actor</string>
+    <string name="direccion">Apellido Actor</string>
+    <string name="fecha_apertura">Fecha Nacimiento</string>
+    <string name="ruc">Numero Pelicula</string>
+    <string name="matriz">Retirado</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
